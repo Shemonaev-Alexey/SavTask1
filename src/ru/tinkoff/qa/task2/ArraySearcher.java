@@ -1,6 +1,4 @@
-package ru.tinkoff.qa;
-
-import java.util.Arrays;
+package ru.tinkoff.qa.task2;
 
 public class ArraySearcher {
     private int[] array;

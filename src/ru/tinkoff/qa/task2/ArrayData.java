@@ -1,4 +1,4 @@
-package ru.tinkoff.qa;
+package ru.tinkoff.qa.task2;
 
 public class ArrayData {
     int min;

@@ -1,4 +1,4 @@
-package ru.tinkoff.qa;
+package ru.tinkoff.qa.task1;
 
 import java.util.Scanner;
 
